@@ -5,6 +5,13 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1Control", "Lesson1Control\Lesson1Control.csproj", "{27E42239-A78E-4D2B-84E0-1B769FB52FD6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{65F0F44D-BE63-45EC-8BE5-4E4F569558C0}"
+	ProjectSection(SolutionItems) = preProject
+		lesson1.jpg = lesson1.jpg
+		lesson1.png = lesson1.png
+		lesson1.vsdx = lesson1.vsdx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
